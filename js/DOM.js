@@ -44,3 +44,21 @@ si choixutilisateur = ciseaux et random = feuille > gagné
 
 
 */
+
+/*
+
+function afficher 
+
+affiche les résultats de choixutilisateur et gagné ou perdu
+affiche les résultats de random et gagné ou perdu
+
+
+
+*/
+
+/*
+function rejouer la partie
+
+reset
+
+*/
